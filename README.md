@@ -1,6 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+👋 Hi, I’m Aditya Sinha(@Aditya1016) 
+- 👀 I’m interested in Web dev, Gen Ai and DSA
+- 🌱 I’m currently learning Gen Ai along with Back End Developmeny
+- 💞️ I’m looking to collaborate on any interseting projext on above topics 
+- 📫 How to reach me Dm me on linkedin https://www.linkedin.com/in/aditya-sinha-24b24b264/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iam-aditya-sinha/) 
