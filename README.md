@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any interseting projext on above topics 
 - 📫 How to reach me Dm me on linkedin https://www.linkedin.com/in/iam-aditya-sinha/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Still finding that out :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iam-aditya-sinha/) 
