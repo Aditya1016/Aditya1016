@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Aditya Sinha(@Aditya1016) 
-- 👀 I’m interested in Web dev, Gen Ai and DSA
-- 🌱 I’m currently learning Gen Ai along with Back End Developmeny
+- 👀 I’m interested in Web/App dev, Gen Ai and DSA
+- 🌱 I’m currently learning Gen Ai along with Full stack Development 
 - 💞️ I’m looking to collaborate on any interseting projext on above topics 
 - 📫 How to reach me Dm me on linkedin https://www.linkedin.com/in/iam-aditya-sinha/
 - 😄 Pronouns: He/Him
